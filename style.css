@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+
+    body {
+        padding: 0;
+        margin: 0;
+        background-color: #E1E1E1;
+        font-family: 'Roboto', sans-serif;
+    }
+    #carte {
+        position: relative;
+        height: 400px;
+        width: 600px;
+        margin: 100px 100px 100px 450px;
+        box-shadow: -8px 8px 10px darkgrey;
+        background-color: white;
+    }
+    p {
+        color: #8A8A8A;
+        line-height: 20px;
+        font-size: 14px;
+    }
+    #texte {
+        position: relative;
+        left: 30px;
+        top: 110px;
+    }
+    #timbre {
+        border: 3px solid #9C9C9C;
+        position: absolute;
+        width: 90px;
+        height: 120px;
+        left: 470px;
+        top: 30px;
+    }
+    #ligne1 {
+        border-top: 3px solid #9C9C9C;
+        width : 220px;
+        position: relative;
+        left: 350px;
+        top: 70px;
+    }
+    #ligne2 {
+        border-top: 3px solid #9C9C9C;
+        width : 220px;
+        position: relative;
+        left: 350px;
+        top: 110px;
+    }
+    #ligne3 {
+        border-top: 3px solid #9C9C9C;
+        width : 220px;
+        position: relative;
+        left: 350px;
+        top: 150px;
+    }
+    #ligne4 {
+        border-top: 3px solid #9C9C9C;
+        width : 105px;
+        position: relative;
+        left: 465px;
+        top: 190px;
+    }
+    #ligneM {
+        border-left: 3px solid #9C9C9C;
+        height: 90%;
+        position: relative;
+        left: 320px;
+        bottom: 165px;
+    }
+    #cadre1 {
+        border: 3px solid #9C9C9C;
+        position: absolute;
+        width: 15px;
+        height: 20px;
+        left: 350px;
+        bottom: 25px;
+    }
+    #cadre2 {
+        border: 3px solid #9C9C9C;
+        position: absolute;
+        width: 15px;
+        height: 20px;
+        left: 372px;
+        bottom: 25px;
+    }
+    #cadre3 {
+        border: 3px solid #9C9C9C;
+        position: absolute;
+        width: 15px;
+        height: 20px;
+        left: 394px;
+        bottom: 25px;
+    }
+    #cadre4 {
+        border: 3px solid #9C9C9C;
+        position: absolute;
+        width: 15px;
+        height: 20px;
+        left: 416px;
+        bottom: 25px;
+    }
+    #cadre5 {
+        border: 3px solid #9C9C9C;
+        position: absolute;
+        width: 15px;
+        height: 20px;
+        left: 438px;
+        bottom: 25px;
+    }
